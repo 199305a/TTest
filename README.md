@@ -8,4 +8,6 @@ confila
 
 readme
 
+bug add
+
 
